@@ -26,8 +26,8 @@ A real-time collaborative canvas where users can create, move, and sync rectangl
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/collaborative-rectangles.git
-cd collaborative-rectangles
+git clone https://github.com/JohnSalimRobert/realtime-canvas.git
+cd realtime-canvas-app
 ```
 ## 2. Install Dependencies
 Install both frontend and backend dependencies:
@@ -47,7 +47,7 @@ Start both frontend and backend in separate terminals.
 
 
 ```bash
-# Start backend server (port 4000)
+# Start backend server (port 3001)
 cd server
 npm run dev
 
